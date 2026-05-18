@@ -8,5 +8,6 @@ EG: MAIL IS SPAM OR NOT
 REGRESSION - CONTINUOUS LABLES(NUMBERS) WE WILL GIVE HOUSE AREA , LOCATION -PREDICT PRICE  OF IT 
 <img width="476" height="319" alt="Screenshot 2026-05-18 110205" src="https://github.com/user-attachments/assets/f8986fed-e85c-46e2-ba65-59208423de2d" />
 
+
 -----
 
